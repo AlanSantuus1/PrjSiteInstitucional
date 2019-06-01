@@ -1,13 +1,17 @@
-h3 {
-	color:#193F42;
+h1,h2,h3,p{
+    color:#193F42;
 }
-p {
-	color:#193F42;
+p{
+    text-align: justify;
 }
+
 #icone{
-	height: 60px;
-    width: 70px;
-    border: 1px solid white;
-    box-shadow: 0 0 5px;
-    border-radius: 15px;
+	height: 48px;
+    width: 48px;
+    border: 1px solid #193F42;
+    box-shadow: 0 0 3px;
+    border-radius: 10px;        
+}
+.produtosFotos{
+    margin-top: 50px;
 }
