@@ -1,12 +1,4 @@
-body{
-	
-  background-color:;
-  background-attachment: fixed;
-  background-position: center;
-}
-
-.parallax{
-	  
+.parallax{	  
   background-image: url("icones/Planet.jpg");  
   height: 700px;  
   background-attachment: fixed;
