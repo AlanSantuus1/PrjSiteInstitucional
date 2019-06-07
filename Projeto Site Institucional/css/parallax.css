@@ -1,5 +1,5 @@
 body{
-	/*background-image: url("imagens/fundo.jpg");  */
+	
   background-color:;
   background-attachment: fixed;
   background-position: center;
@@ -7,8 +7,7 @@ body{
 
 .parallax{
 	  
-  background-image: url("icones/Planet.jpg");
-  /*background-color: #777;*/
+  background-image: url("icones/Planet.jpg");  
   height: 700px;  
   background-attachment: fixed;
   background-position: center;

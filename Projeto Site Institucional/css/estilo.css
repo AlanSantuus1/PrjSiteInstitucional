@@ -4,7 +4,6 @@ h1,h2,h3,p{
 p{
     text-align: justify;
 }
-
 #icone{
 	height: 48px;
     width: 48px;
@@ -12,6 +11,22 @@ p{
     box-shadow: 0 0 3px;
     border-radius: 10px;        
 }
+#animated-img1{
+    margin-top: 100px;
+}
+#navbarCss{
+    filter: opacity(90%);
+}
+#carouselImg{    
+    filter: opacity(80%) sepia(10%);
+    box-shadow: 0px 2px;
+    
+}
 .produtosFotos{
     margin-top: 50px;
 }
+.carouselMarginTop{
+    margin-top: -75px;
+    box-shadow: 0px 3px 3px;    
+}
+
