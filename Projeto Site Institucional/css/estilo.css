@@ -7,10 +7,7 @@ p{
 }
 #icone{
 	height: 48px;
-    width: 48px;
-    border: 1px solid #193F42;
-    box-shadow: 0 0 3px;
-    border-radius: 10px;        
+    width: 48px;        
 }
 #animated-img1{
     margin-top: 100px;
@@ -23,6 +20,27 @@ p{
     box-shadow: 0px 2px;
     
 }
+#botaoCapa:hover{
+    background-color: #2EB455;
+}
+#nomeNav{
+    font-family: 'Ranga', cursive;
+    border: 1px solid #193F42;
+    box-shadow: 0 0 3px;
+    border-radius: 10px;
+    padding-top:0px;
+    padding-bottom: 0px;
+    font-size: 22px;
+}
+#logoMaior{
+    margin-top:-100px;
+    margin-bottom:-50px;
+}
+#navBorda:hover{
+    background-color:#2EB455;
+    border-radius: 10px;
+    transition:0.2s;
+}
 .produtosFotos{
     margin-top: 50px;
     width: 1000px;
@@ -34,4 +52,5 @@ p{
     margin-top: -75px;
     box-shadow: 0px 3px 3px;    
 }
+
 
